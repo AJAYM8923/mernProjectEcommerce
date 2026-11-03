@@ -1,4 +1,5 @@
 # MERN E-COMMERCE TUTORIAL
+#Create an env.sample file on your project root
 
 Hi! My name is **Abhishek Singh**, I have created this tutorial to teach MERN Stack for free on YouTube.
 
